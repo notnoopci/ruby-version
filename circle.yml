@@ -1,0 +1,5 @@
+tests:
+  override:
+    - ruby -v
+    - cat .ruby-version
+
